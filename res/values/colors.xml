@@ -32,6 +32,7 @@
 
     <color name="white">#ffffffff</color>
     <color name="white_69p">#B1FFFFFF</color>
+    <color name="red">#ffee0000</color>
 
     <color name="blackish_selected">#0cffffff</color>
     <color name="transparent">#00000000</color>

@@ -25,12 +25,6 @@
     <!-- Setting labels on Set alarm screen: Increasing volume on or off -->
     <string name="alarm_increasing_volume">Increasing volume</string>
 
-    <!-- Setting labels on Set alarm screen: Choose profile -->
-    <string name="profile_description">Profile <xliff:g id="profile">%s</xliff:g></string>
-
-    <!-- No profile selected label -->
-    <string name="profile_no_selected">No profile selected</string>
-
     <!-- User-defined cities -->
     <string name="menu_item_add">Add</string>
     <string name="cities_add_city_title">Add city</string>
@@ -83,18 +77,7 @@
 
     <!-- Warn Silent Alarm title -->
     <string name="warn_silent_alarm_title">Alarm volume is silent</string>
-
-    <!-- Select the source of the alarm -->
-    <string name="alarm_select">Select Alarm</string>
-    <!-- Select the ringtone as alarm -->
-    <string name="alarm_select_ringtone">Ringtone</string>
-    <!-- Select the alarm from external device -->
-    <string name="alarm_select_external">Music</string>
-    <!-- Ok for selection -->
-    <string name="alarm_select_ok">OK</string>
-    <!-- Cancel for selection -->
-    <string name="alarm_select_cancel">Cancel</string>
-
+    
     <!-- Ringtone selection default" -->
     <string name="ringtone_default">"Default ringtone"</string>
 
